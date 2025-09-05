@@ -16,9 +16,8 @@ The dataset contains detailed information about guest bookings, including stay d
 ## Dataset
 
 - **File:** `hotel_bookings.csv`  
-- **Size:** ~119,000 rows, 32 columns  
-- **Source:** [Hotel Booking Demand Dataset (Antonio et al., 2019)](https://www.sciencedirect.com/science/article/pii/S2352340918315191)  
-
+- **Size:** ~119,000 rows, 32 columns
+  
 ## 🔑 Key Columns
 
 - **hotel**: City Hotel / Resort Hotel  
